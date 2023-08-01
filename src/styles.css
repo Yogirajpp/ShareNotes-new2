@@ -6,7 +6,9 @@
 .app{
   width: 100px;
 }
+
 .container{
+  margin: 0;
   display:flex;
 }
 main{

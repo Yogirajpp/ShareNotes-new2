@@ -3,7 +3,7 @@
 .login-page {
   width: 100%;
   padding: 8% 0 0;
-  margin: auto;
+  margin: 0 0;
 }
 .form {
   position: relative;
@@ -55,13 +55,13 @@
 .form .register-form {
   display: none;
 }
-.container {
+/* .container {
   position: relative;
   z-index: 1;
   max-width: 300px;
-  margin: 0 auto;
-}
-.container:before, .container:after {
+  margin: 0 0;
+} */
+/* .container:before, .container:after {
   content: "";
   display: block;
   clear: both;
@@ -87,7 +87,7 @@
 }
 .container .info span .fa {
   color: #EF3B3A;
-}
+} */
 body {
   /* background: #415bd1; /* fallback for old browsers */
   /*background: #415bd1; */
